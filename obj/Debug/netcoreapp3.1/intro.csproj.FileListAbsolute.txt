@@ -1,0 +1,13 @@
+C:\Users\CLX-Set\newForce\bangazon\book-one\intro\obj\Debug\netcoreapp3.1\intro.csprojAssemblyReference.cache
+C:\Users\CLX-Set\newForce\bangazon\book-one\intro\obj\Debug\netcoreapp3.1\intro.AssemblyInfoInputs.cache
+C:\Users\CLX-Set\newForce\bangazon\book-one\intro\obj\Debug\netcoreapp3.1\intro.AssemblyInfo.cs
+C:\Users\CLX-Set\newForce\bangazon\book-one\intro\obj\Debug\netcoreapp3.1\intro.csproj.CoreCompileInputs.cache
+C:\Users\CLX-Set\newForce\bangazon\book-one\intro\bin\Debug\netcoreapp3.1\intro.exe
+C:\Users\CLX-Set\newForce\bangazon\book-one\intro\bin\Debug\netcoreapp3.1\intro.deps.json
+C:\Users\CLX-Set\newForce\bangazon\book-one\intro\bin\Debug\netcoreapp3.1\intro.runtimeconfig.json
+C:\Users\CLX-Set\newForce\bangazon\book-one\intro\bin\Debug\netcoreapp3.1\intro.runtimeconfig.dev.json
+C:\Users\CLX-Set\newForce\bangazon\book-one\intro\bin\Debug\netcoreapp3.1\intro.dll
+C:\Users\CLX-Set\newForce\bangazon\book-one\intro\bin\Debug\netcoreapp3.1\intro.pdb
+C:\Users\CLX-Set\newForce\bangazon\book-one\intro\obj\Debug\netcoreapp3.1\intro.dll
+C:\Users\CLX-Set\newForce\bangazon\book-one\intro\obj\Debug\netcoreapp3.1\intro.pdb
+C:\Users\CLX-Set\newForce\bangazon\book-one\intro\obj\Debug\netcoreapp3.1\intro.genruntimeconfig.cache

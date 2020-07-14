@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\CLX-Set\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\CLX-Set\\.nuget\\packages"
+    ]
+  }
+}
